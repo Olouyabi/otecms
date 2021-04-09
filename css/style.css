@@ -1,0 +1,14 @@
+.header .navbar-brand img {
+  width: 75px;
+}
+
+.header .nav-link {
+  font-family: "Bellerose";
+  font-size: 20px;
+}
+
+@font-face {
+  font-family: "Bellerose";
+  src: url(../../src/fonts/Bellerose/Bellerose.ttf);
+}
+/*# sourceMappingURL=style.css.map */

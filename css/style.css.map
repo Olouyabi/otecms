@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AAKQ,OALD,CAGH,aAAa,CAET,GAAG,CAAA;EACC,KAAK,EAAE,IAAI;CACd;;AAPT,AAUI,OAVG,CAUH,SAAS,CAAA;EFDT,WAAW,EDPH,WAAW;ECQnB,SAAS,EECa,IAAI;CACzB;;AGXL,UAAU;EACN,WAAW,EAAE,WAAW;EACzB,GAAG,EAAE,4CAA4C",
+    "sources": [
+        "style.scss",
+        "part/_variables.scss",
+        "part/_functions.scss",
+        "part/_global.scss",
+        "part/_header.scss",
+        "part/_slide.scss",
+        "part/_footer.scss",
+        "part/_fonts.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

@@ -1,0 +1,14 @@
+﻿.header{
+
+
+    .navbar-brand{
+
+        img{
+            width: 75px;
+        }
+    }
+
+    .nav-link{
+        @include menufont(20px)
+    }
+}
