@@ -1,14 +1,25 @@
-﻿.header{
+﻿.header {
+
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+    background: conic-gradient(from 239.04deg at 100% 0%, #219653 0deg, #FFB116 360deg), #FFFFFF;
+
+    .right-home {
+        position: absolute;
+        width: 75%;
+    }
 
 
-    .navbar-brand{
 
-        img{
+    .navbar-brand {
+
+        img {
             width: 75px;
         }
     }
 
-    .nav-link{
+    .nav-link {
         @include menufont(20px)
     }
 }
